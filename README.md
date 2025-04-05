@@ -1,3 +1,16 @@
+# 🐳 Docker Revision Guide
+
+This repository contains a comprehensive Markdown guide for Docker, designed for quick revision and long-term reference. It includes:
+
+- 🔧 Common Docker commands
+- 🚀 Building & running images/containers
+- 📦 Dockerfile examples
+- 🛠️ Docker Hub workflow
+- 🧹 Cleanup and image management tips
+- 🏷️ All commonly used flags explained
+
+Whether you're just getting started or brushing up before a deployment, this guide keeps you covered.
+
 # 🐳 Docker Full Revision Guide
 
 A comprehensive revision Markdown file to help you recall and revise all key Docker concepts and commands.
